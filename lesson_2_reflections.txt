@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+    to create a git repository
+
+    How is the staging area different from the working directory and the repository? What value do you think it offers?
+        we can choose to work only on the files that we are trying to make changes in, to help keep the repository cleaner and easier to understand the changes
